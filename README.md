@@ -41,8 +41,10 @@
 ....
 ```
 
-`При необходимости прикрепитe сюда скриншоты
-![задание1]()`
+При необходимости прикрепитe сюда скриншоты
+[задание1](https://github.com/Mandarineccc/ot.ust/blob/main/дллд1.png)
+[задание1](https://github.com/Mandarineccc/ot.ust/blob/main/дллд2.png)
+
 
 
 ---
